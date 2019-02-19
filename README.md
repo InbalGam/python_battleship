@@ -2,10 +2,15 @@
 Battleship game written in Python
 
 Signs-
+
 Empty cell: ' '
+
 Positioned ship: 'o'
+
 Bombed cell: 'x'
+
 Bombed cell but there wasn't any ships: '-'
+
 
 First the program asks if the player wants to load a saved game or start a new one,
 if the player chooses a new game it asks for the player to choose one of two options of the game.
